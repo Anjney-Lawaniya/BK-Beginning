@@ -1,0 +1,15 @@
+{
+  "name": "yt_backend",
+  "version": "1.0.0",
+  "description": "A bk& begining.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "bk&"
+  ],
+  "author": "anjney_lawaniya",
+  "license": "ISC"
+}
