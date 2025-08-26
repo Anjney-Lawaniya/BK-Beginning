@@ -1,1 +1,1 @@
-Begining towards bk&. Hope to go long way.
+Beginning towards bk&. Hope to go long way.
